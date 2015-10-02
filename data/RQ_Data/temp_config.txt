@@ -1,0 +1,1 @@
+exec = sic mzCenter=648.274213 radius=5 radiusUnits=ppm delimiter=comma
